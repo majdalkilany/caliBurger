@@ -82,6 +82,9 @@ border: 0ch;
     clip-path: polygon(100% 0, 100% 78%, 52% 98%, 0 76%, 0 0);
       
 } */
+
+
+
 .main_section h6{
     text-align: center;
     font-size: 330%;
@@ -398,6 +401,10 @@ font-size: 15px;
 
 }
 
+iframe{
+    width: 35vw;
+    height: 42vh;
+}
 
 /* slider 00 */
 #on_it{
